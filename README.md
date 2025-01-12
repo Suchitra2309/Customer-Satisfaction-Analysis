@@ -42,3 +42,23 @@ Identifyed the root causes of dissatisfaction to provide actionable recommendati
 Calculated the NPS to gauge overall customer loyalty and identify areas to convert detractors into promoters.
 
 This project strengthened my analytical and problem-solving skills while showcasing the value of data-driven decisions to enhance customer experience and business outcomes.
+
+# Key Outcomes
+
+ • Customers giving low ratings span a wide age range, with notable peaks around ages 30-40
+ and 50-60, which suggests age-related dissatisfaction trends.
+ • Purchase amount and frequency distributions reveal that low ratings are not limited to low spenders or infrequent buyers; even high spenders and frequent buyers express dissatisfaction, which shows service quality issues.
+ • Thereturn rate distribution shows that higher return rates correlate with low ratings, particularly for product quality and website ease of use, which indicates dissatisfaction with product and website experiences.
+ 
+ # Suggestions
+ 
+ • Identify specific concerns for age groups 30–40 and 50–60 through surveys.Customize services,
+ products, and marketing for their needs.
+ • Improve customer support and solve issues quickly and reward high spenders with loyalty
+ programs or exclusive benefits.
+ • Fix quality problems by improving checks and using return data to spot issues.
+ • Make the website easier to use by improving navigation, search, and mobile design. Provide
+ tour guide for users.
+ • Analyze why products are returned and fix common issues.
+ • Last but not least, Collect customer feedback regularly and act on it. Use dashboards to
+ track satisfaction and returns, and improve continuously.
